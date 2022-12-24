@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:recipeappui/check_email_page.dart';
-import 'package:recipeappui/firstpage.dart';
-import 'package:recipeappui/home_page.dart';
-import 'package:recipeappui/notification_page.dart';
-import 'package:recipeappui/profile_page.dart';
+import 'package:recipeappui/pages/check_email_page.dart';
+import 'package:recipeappui/pages/firstpage.dart';
+import 'package:recipeappui/pages/home_page.dart';
+import 'package:recipeappui/pages/notification_page.dart';
+import 'package:recipeappui/pages/profile_page.dart';
 
 void main() {
   runApp(const MyApp());

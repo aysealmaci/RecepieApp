@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-import 'package:recipeappui/firstpage.dart';
+import 'package:recipeappui/pages/firstpage.dart';
 
-import 'package:recipeappui/sign_up_screen.dart';
+import 'package:recipeappui/pages/sign_up_screen.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({Key? key}) : super(key: key);

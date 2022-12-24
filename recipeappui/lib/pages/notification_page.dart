@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:recipeappui/firstpage.dart';
-import 'package:recipeappui/home_page.dart';
+import 'package:recipeappui/pages/firstpage.dart';
+import 'package:recipeappui/pages/home_page.dart';
 
 class NotificationPage extends StatelessWidget {
   const NotificationPage({Key? key}) : super(key: key);

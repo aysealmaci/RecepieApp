@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:recipeappui/check_email_page.dart';
-import 'package:recipeappui/drink_page.dart';
-import 'package:recipeappui/firstpage.dart';
-import 'package:recipeappui/food_page.dart';
+import 'package:recipeappui/pages/check_email_page.dart';
+import 'package:recipeappui/pages/drink_page.dart';
+import 'package:recipeappui/pages/firstpage.dart';
+import 'package:recipeappui/pages/food_page.dart';
 
 class HomePge extends StatefulWidget {
   const HomePge({Key? key}) : super(key: key);

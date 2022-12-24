@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:recipeappui/check_email_page.dart';
-import 'package:recipeappui/firstpage.dart';
-import 'package:recipeappui/home_page.dart';
-import 'package:recipeappui/drink_page.dart';
+import 'package:recipeappui/pages/check_email_page.dart';
+import 'package:recipeappui/pages/firstpage.dart';
+import 'package:recipeappui/pages/home_page.dart';
+import 'package:recipeappui/pages/drink_page.dart';
 
 class FoodPage extends StatefulWidget {
   const FoodPage({Key? key}) : super(key: key);

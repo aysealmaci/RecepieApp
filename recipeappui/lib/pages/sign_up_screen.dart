@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:recipeappui/firstpage.dart';
+import 'package:recipeappui/pages/firstpage.dart';
 
 class SignUpscreen extends StatefulWidget {
   const SignUpscreen({Key? key}) : super(key: key);
